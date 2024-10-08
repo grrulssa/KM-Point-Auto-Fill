@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "KM Point Auto-Fill",
+  "version": "1.0.0",
+  "description": "카카오모빌리티 임직원 복지포탈의 포인트 사용 신청을 자동화합니다.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "KM Point Auto-Fill"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://km.s-bluevery.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "author": "Gunn Kim"
+}
