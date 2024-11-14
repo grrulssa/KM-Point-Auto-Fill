@@ -1,5 +1,7 @@
 # KM Point Auto-Fill
 
+![image](https://github.com/user-attachments/assets/ac63d4ed-f8f8-4de5-9003-8d9b26355430)
+
 카카오모빌리티 임직원 복지포탈의 포인트 사용 신청 과정을 자동화하는 Chrome 확장 프로그램입니다.
 
 ## 기능
@@ -10,8 +12,10 @@
 
 ## 설치 방법
 
+![image](https://github.com/user-attachments/assets/a3efb4b0-8cb3-460c-a01e-e18b1877fff3)
+
 1. 이 저장소를 [다운로드](https://github.com/adalgu/KM-Point-Auto-Fill/archive/refs/heads/master.zip)한 후 압축을 해제합니다.
-2. Chrome 브라우저에서 `chrome://extensions/`로 이동합니다.
+2. Chrome 브라우저에서 [chrome://extensions/](chrome://extensions/)로 이동합니다.
 3. 우측 상단의 "개발자 모드"를 활성화합니다.
 4. "압축해제된 확장 프로그램을 로드합니다" 버튼을 클릭하고 다운로드한 폴더를 선택합니다.
 
