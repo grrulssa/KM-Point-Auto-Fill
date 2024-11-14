@@ -18,7 +18,7 @@
 1. 이 저장소를 [다운로드](https://github.com/adalgu/KM-Point-Auto-Fill/archive/refs/heads/master.zip)한 후 압축을 해제합니다.
 2. Chrome 브라우저에서 [chrome://extensions/](chrome://extensions/)로 이동합니다.
 3. 우측 상단의 "개발자 모드"를 활성화합니다.
-4. "압축해제된 확장 프로그램을 로드합니다" 버튼을 클릭하고 다운로드한 폴더를 선택합니다.
+4. "압축해제된 확장 프로그램을 로드합니다" 버튼을 클릭하고 다운로드하여 압축을 해제한 폴더를 선택합니다.
 
 ## 사용 방법
 
